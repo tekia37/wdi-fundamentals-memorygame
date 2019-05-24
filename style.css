@@ -96,7 +96,7 @@ footer {
 visibility: hidden;
 display: block;
 content: " ";
-clear: all;
+clear: both;
 height: 0;
 font-size: 0;
 }
